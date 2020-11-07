@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">9-RandomNumber-Android-Studio</string>
+    <string name="Hw9_title" />
+    <string name="Hw9_num1" />
+    <string name="Hw9_num2" />
+    <string name="Hw9_num3" />
+    <string name="Hw9_num4" />
+    <string name="Hw9_num5" />
+    <string name="Hw9_num6" />
+    <string name="Hw9_num7" />
+    <string name="Hw9_num8" />
+    <string name="Hw9_num9" />
+    <string name="Hw9_Restart" />
+    <string name="Hw9_Output" />
+    <string name="Hw9_back" />
+</resources>

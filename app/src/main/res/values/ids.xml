@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="num1" type="id" />
+    <item name="num2" type="id" />
+    <item name="num3" type="id" />
+    <item name="num4" type="id" />
+    <item name="num5" type="id" />
+    <item name="set_number" type="id" />
+    <item name="mark" type="id" />
+</resources>
